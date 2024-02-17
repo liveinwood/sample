@@ -1,0 +1,8 @@
+player_id,handle_name
+1,taro
+2,jiro
+3,saburo
+4,shiro
+5,goro
+6,hoge-taro
+7,goro
